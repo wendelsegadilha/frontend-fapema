@@ -1,0 +1,16 @@
+main {
+    min-height: 500px;
+}
+.info-aluno {
+    min-height: 335px;
+}
+footer {
+    background-color: #F7F7F7;
+    height: 80px;
+}
+.copyright {
+    text-align: right;
+    position: absolute;
+    top: 40px;
+    right: 30px;
+}
